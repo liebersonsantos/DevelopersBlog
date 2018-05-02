@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DevelopersBlog</string>
+    <string name="action_settings">Settings</string>
+    <string name="chaveAPI">AIzaSyCN3mxwW_JYwggpcbn_kLVbxpCUD6Yz2aY</string>
+    <string name="chaveClientId">999814014721-u5mg63uo8vo29ifts4vc8kkpd1dek6ou.apps.googleusercontent.com</string>
+    <string name="url_base">https://www.googleapis.com/blogger/v3/blogs/6755709643044947179/</string>
+    <string name="url_completa">    https://www.googleapis.com/blogger/v3/blogs/6755709643044947179/posts?key=AIzaSyCN3mxwW_JYwggpcbn_kLVbxpCUD6Yz2aY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
